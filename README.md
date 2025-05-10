@@ -67,25 +67,25 @@ This C# console-based application allows users to register and log in as either 
 
 📘 Usage
 
-As a Customer:
-   Register and log in
+1. As a Customer:
+- Register and log in
 
-   View available cars
+- View available cars
 
-   Search cars
+- Search cars
 
-   Book a rental
+- Book a rental
 
-   View booking confirmation and rental fee
+- View booking confirmation and rental fee
 
-As an Admin:
-   View all car records
+2. As an Admin:
+- View all car records
 
-   Add/edit/delete cars
+- Add/edit/delete cars
 
-   Process booking requests
+- Process booking requests
 
-   Delete rental records
+- Delete rental records
 
 👥 User Roles
 Role	Capabilities
