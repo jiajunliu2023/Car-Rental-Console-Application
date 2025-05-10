@@ -66,25 +66,26 @@ This C# console-based application allows users to register and log in as either 
     Press Ctrl + F5 or dotnet run in terminal
 
 📘 Usage
+
 As a Customer:
-Register and log in
+   Register and log in
 
-View available cars
+   View available cars
 
-Search cars
+   Search cars
 
-Book a rental
+   Book a rental
 
-View booking confirmation and rental fee
+   View booking confirmation and rental fee
 
 As an Admin:
-View all car records
+   View all car records
 
-Add/edit/delete cars
+   Add/edit/delete cars
 
-Process booking requests
+   Process booking requests
 
-Delete rental records
+   Delete rental records
 
 👥 User Roles
 Role	Capabilities
