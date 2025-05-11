@@ -12,6 +12,7 @@ This C# console-based application allows users to register and log in as either 
 - [User Roles](#user-roles)
 - [PDF Documentation](#pdf-documentation)
 - [Author](#author)
+- [License](#license)
 
 ---
 
@@ -65,7 +66,7 @@ This C# console-based application allows users to register and log in as either 
 
     Press Ctrl + F5 or dotnet run in terminal
 
-📘 Usage
+## 📘 Usage
 
 1. As a Customer:
 - Register and log in
@@ -87,15 +88,18 @@ This C# console-based application allows users to register and log in as either 
 
 - Delete rental records
 
-👥 User Roles
+## 👥 User Roles
 Role	Capabilities
 Customer--Browse and book cars
 Admin--Manage car inventory, process bookings
 
-📄 PDF Documentation
+## 📄 PDF Documentation
 📙 User Manual (PDF)
 [View Project User Manual (PDF)](./User%20Manual-Jiajun%20Liu..pdf)
 
-👨‍💻 Author
+## 👨‍💻 Author
 Jiajun Liu
 Yoobee College, Auckland
+
+## License
+This project is built for educational purposes and does not carry a production license. Please contact the authors for usage beyond personal or academic scope.
