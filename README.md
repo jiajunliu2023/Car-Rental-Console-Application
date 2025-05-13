@@ -1,6 +1,6 @@
 # 🚗 Car Rental Console Application
 
-This C# console-based application allows users to register and log in as either customers or admins. Customers can view and book cars, while admins manage car records and rental requests. The system supports rental period validation, cost calculation, and booking status management.
+This C++ console-based application allows users to register and log in as either customers or admins. Customers can view and book cars, while admins manage car records and rental requests. The system supports rental period validation, cost calculation, and booking status management.
 
 ---
 
